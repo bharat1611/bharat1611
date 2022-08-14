@@ -2,7 +2,8 @@
 <div id = "header" align = "center">
   <img src = "https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif">
  </div>
- _If you're here, that means there is a glitch in the Matrix_
+ ***If you're here, that means there is a glitch in the Matrix***
+ 
  <div align = "center">
  <h2><br><br>
 Hello there 👋 I am Bharat Upadhyay
