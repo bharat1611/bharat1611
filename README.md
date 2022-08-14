@@ -35,6 +35,6 @@ Hello there 👋 I am Bharat Upadhyay
   
 <p><img align = "center" src = "http://github-readme-streak-stats.herokuapp.com?user=bharat1611&theme=dark&background=000000"></p>
    
-<p><img src = "https://github-readme-stats.vercel.app/api?username=bharat1611&show_icons=true&theme=radical" align = "center"></p>
+<p><img src = "https://github-readme-stats.vercel.app/api?username=bharat1611&show_icons=true&theme=radical" align = "left"></p>
 
 
