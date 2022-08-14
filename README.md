@@ -6,10 +6,10 @@
  <p align = "center"><strong>If you're here, that means there is a glitch in the Matrix</strong></p>
  
  <div align = "center">
- <h1><br>
+ <h2><br>
 Hello there 👋 I am Bharat Upadhyay
 </div>
-<h3 align = "center"> A front-end developer and a Data Analyst from India</h3>
+<h4 align = "center"> A front-end developer and a Data Analyst from India</h4>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif">
 <p align = "left"><img src="https://komarev.com/ghpvc/?username=bharat1611&style=flat-square&color=blue" alt="" /> </p>
