@@ -1,31 +1,37 @@
 
 <div id = "header" align = "center">
-  <img src = "https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif">
+  <img src = "https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" width = "280" heoght = "280">
  </div>
- ***If you're here, that means there is a glitch in the Matrix***
+
+ <p align = "center"><strong>If you're here, that means there is a glitch in the Matrix</strong></p>
  
  <div align = "center">
- <h2><br><br>
+ <h2><br>
 Hello there 👋 I am Bharat Upadhyay
 </div>
-<h4> A front-end developer and a Data Analyst from India</h4>
+<h4 align = "center"> A front-end developer and a Data Analyst from India</h4>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif">
 <p align = "left"><img src="https://komarev.com/ghpvc/?username=bharat1611&style=flat-square&color=blue" alt="" /> </p>
-- 🔭 I’m currently exploring Web Development and UI/UX Development
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+<h3 align ="left"><ins> About Me : </ins></h3>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/DhruvPandey1509">Github</a> 
+- 🔭 I’m currently exploring Data Analysis and React.
 
-- 💬 Ask me about **React, Frontend, Competitive Programming**
+- 🌱 I’m currently learning **Data Structures and Algorithms**.
 
-- 📫 How to reach me **dhruvpandey1503@gmail.com**
+- 👨‍💻 All of my projects are available at <a href="https://github.com/bharat1611">Github</a> .
+
+- 💬 Ask me about **Front-end, Data Science and Competitive Coding**.
+
+- 📫 How to reach me **upadhyay.bharat.2017641@gmail.com** / **upadhyayabharatbls@gmail.com**.
 
 - 🤝 Lets Collaborate!
 
-<div float = "center">
-<img src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif">
+<h3 align = "left"><ins> My Stats :</ins></h3>
 
-<img src="https://komarev.com/ghpvc/?username=bharat1611&style=flat-square&color=blue" alt="" />
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bharat1611&theme=dark&background=000000)](https://git.io/streak-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bharat1611&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
