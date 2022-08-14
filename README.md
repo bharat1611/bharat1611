@@ -7,7 +7,7 @@
  
  <div align = "center">
  <h1><br>
-Hello there 👋 I am Bharat Upadhyay</h1>
+Hello there 👋 I am Bharat Upadhyay
 </div>
 <h3 align = "center"> A front-end developer and a Data Analyst from India</h3>
 
