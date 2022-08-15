@@ -28,7 +28,7 @@ Hello there 👋 I am Bharat Upadhyay
 
 - 🤝 Lets Collaborate!
 
-<h3 align = "left"><ins> My Stats :</ins></h3>
+<h3 align = "left"><ins> 🔥 My Stats :</ins></h3>
 
   
  <p><img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bharat1611&exclude_repo=Fraud-Detection---Insurance-Claims,bharat1611.github.io&layout=compact&theme=vision-friendly-dark" alt = "bharat1611"/></p>
