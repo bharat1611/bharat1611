@@ -16,7 +16,7 @@ Hello there 👋 I am Bharat Upadhyay
 
 <h3 align ="left"><ins> About Me : </ins></h3>
 
-- 🔭 I’m currently exploring Data Analysis and React.
+- 🔭 I’m currently exploring **Data Analysis and React**.
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
 
