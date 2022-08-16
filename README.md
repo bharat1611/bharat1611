@@ -34,8 +34,8 @@ Hello there 👋 I am Bharat Upadhyay
  <p></p>
   
 <p float = "left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bharat1611&exclude_repo=Fraud-Detection---Insurance-Claims,bharat1611.github.io&layout=compact&theme=vision-friendly-dark" alt = "bharat1611"/>
-  <img src = "https://github-readme-stats.vercel.app/api?username=bharat1611&show_icons=true&theme=radical"/> 
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bharat1611&exclude_repo=Fraud-Detection---Insurance-Claims,bharat1611.github.io&layout=compact&theme=vision-friendly-dark" alt = "bharat1611" width = "400"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=bharat1611&show_icons=true&theme=radical" width = "600"/> 
  </p>
   
   <img align = "left" src = "http://github-readme-streak-stats.herokuapp.com?user=bharat1611&theme=dark&background=000000"/>
