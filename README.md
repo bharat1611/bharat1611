@@ -35,4 +35,4 @@ Hello there 👋 I am Bharat Upadhyay
   
 ![](https://github-readme-stats.vercel.app/api?username=bharat1611&show_icons=true&theme=radical)
 
-![](http://github-readme-streak-stats.herokuapp.com?user=bharat1611&theme=dark&background=000000" alt = "bharat1611)
+![](http://github-readme-streak-stats.herokuapp.com?user=bharat1611&theme=dark&background=000000" alt = "bharat1611")
