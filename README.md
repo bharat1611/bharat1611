@@ -30,7 +30,7 @@ Hello there 👋 I am Bharat Upadhyay
 
 <h3 align = "left"><ins> 🔥 My Stats :</ins></h3>
 
- <p><img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bharat1611&exclude_repo=Fraud-Detection---Insurance-Claims,bharat1611.github.io&layout=compact&theme=vision-friendly-dark" alt = "bharat1611"/></p>
+<p><img align = "left" width = "400" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bharat1611&exclude_repo=Fraud-Detection---Insurance-Claims,bharat1611.github.io&layout=compact&theme=vision-friendly-dark" alt = "bharat1611"/></p>
 
 <p><img align = "center" src = "https://github-readme-stats.vercel.app/api?username=bharat1611&show_icons=true&theme=radical"></p>
 
