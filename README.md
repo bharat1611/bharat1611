@@ -12,7 +12,7 @@
 <h3 align = "center"> A front-end developer and a Data Analyst from India</h3>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif">
-<p align = "left"><img src="https://komarev.com/ghpvc/?username=bharat1611&style=flat-square&color=blue" alt="" /> </p>
+<p align = "left"><img src="https://komarev.com/ghpvc/?username=bharat1611&style=flat-square&color=blue" alt="" height = "150" width = "150"/> </p>
 
 <h2 align ="left">About Me : </h2>
 
@@ -27,7 +27,7 @@
 - 📫 How to reach me **upadhyay.bharat.2017641@gmail.com** / **upadhyayabharatbls@gmail.com**.
 
 - 🤝 Lets Collaborate!
-  
+  <br><br>
 <h2 align = "left"> Languages And Tools : </h3>
  <div>
      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
