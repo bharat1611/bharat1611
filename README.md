@@ -11,8 +11,8 @@
 </div>
 <h3 align = "center"> A front-end developer and a Data Analyst from India</h3>
 
-<img align = "right" alt = "Coding" width = "400" src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif">
-<p align = "left"><img src="https://komarev.com/ghpvc/?username=bharat1611&style=flat-square&color=blue" alt="" height = "150" width = "150"/> </p>
+<img align = "right" alt = "Coding" width = "400" src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height = "150" width = "150">
+<p align = "left"><img src="https://komarev.com/ghpvc/?username=bharat1611&style=flat-square&color=blue" alt=""/> </p>
 
 <h2 align ="left">About Me : </h2>
 
