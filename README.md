@@ -6,15 +6,15 @@
  <p align = "center"><strong>If you're here, that means there is a glitch in the Matrix</strong></p>
  
  <div align = "center">
- <h1><br>
-Hello there 👋 I am Bharat Upadhyay
+   <h1><br>
+  Hello there 👋 I am Bharat Upadhyay
 </div>
 <h3 align = "center"> A front-end developer and a Data Analyst from India</h3>
 
 <img align = "right" alt = "Coding" width = "400" src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif">
 <p align = "left"><img src="https://komarev.com/ghpvc/?username=bharat1611&style=flat-square&color=blue" alt="" /> </p>
 
-<h3 align ="left"><ins> About Me : </ins></h3>
+<h3 align ="left">About Me : </h3>
 
 - 🔭 I’m currently exploring **Data Analysis and React**.
 
@@ -28,7 +28,7 @@ Hello there 👋 I am Bharat Upadhyay
 
 - 🤝 Lets Collaborate!
 
-<h3 align = "left"><ins> 🔥 My Stats :</ins></h3>
+<h3 align = "left"> 🔥 My Stats : </h3>
 
 <p><img align = "left" width = "400" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bharat1611&exclude_repo=Fraud-Detection---Insurance-Claims,bharat1611.github.io&layout=compact&theme=vision-friendly-dark" alt = "bharat1611"/></p>
 
