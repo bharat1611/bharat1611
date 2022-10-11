@@ -2,10 +2,7 @@
 <div id = "header" align = "center">
   <img src = "https://media.giphy.com/media/128Ygie2wLdH5m/giphy.gif" width = "280" heoght = "280">
  </div>
-
  <p align = "center"><strong>If you're here, that means there is a glitch in the Matrix</strong></p>
- 
- 
  <div align = "center">
    <h1><br>
   Hello there 👋 I am Bharat Upadhyay
@@ -57,6 +54,3 @@
 <p><img align = "center" src = "https://github-readme-stats.vercel.app/api?username=bharat1611&show_icons=true&theme=radical"></p>
 
 <p><img align = "center" src = "http://github-readme-streak-stats.herokuapp.com?user=bharat1611&theme=dark&background=000000" alt = "bharat1611"/></p>
-
-  
-  
