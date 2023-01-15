@@ -51,9 +51,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-<p><img align = "left" width = "400" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=bharat1611&exclude_repo=Fraud-Detection---Insurance-Claims,bharat1611.github.io&layout=compact&theme=vision-friendly-dark" alt = "bharat1611"/></p>
+<p><img align = "left" width = "400" src = "https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bharat1611&exclude_repo=Fraud-Detection---Insurance-Claims,bharat1611.github.io&layout=compact&theme=vision-friendly-dark" alt = "bharat1611"/></p>
 
-<p><img align = "center" src = "https://github-readme-stats.vercel.app/api?username=bharat1611&show_icons=true&theme=radical"></p>
+<p><img align = "center" src = "https://github-readme-stats-sigma-five.vercel.app/api?username=bharat1611&show_icons=true&theme=radical"></p>
 
 <p><img align = "center" src = "http://github-readme-streak-stats.herokuapp.com?user=bharat1611&theme=dark&background=000000" alt = "bharat1611"/></p>
 
