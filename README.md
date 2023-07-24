@@ -19,11 +19,11 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/bharat1611">Github</a> .
+- 👨‍💻 My **portfolio** is available <a href="https://bharat1611.github.io/portfolio/">here</a> .
 
 - 💬 Ask me about **Front-end, Data Science and Competitive Coding**.
 
-- 📫 How to reach me **upadhyay.bharat.2017641@gmail.com** / **upadhyayabharatbls@gmail.com**.
+- 📫 How to reach me **upadhyay.bharat.2017641@gmail.com**.
 
 - 🤝 Lets Collaborate!
   <br><br>
