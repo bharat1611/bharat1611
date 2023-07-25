@@ -7,7 +7,7 @@
    <h1><br>
   Hello there 👋 I am Bharat Upadhyay
 </div>
-<h3 align = "center"> A front-end developer and a Data Analyst from India</h3>
+<h3 align = "center"> A front-end developer and an ML Enthusiast from India</h3>
 
 
 <img align = "right" alt = "Coding" width = "300" src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height = "250">
