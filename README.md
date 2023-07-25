@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**.
 
-- 👨‍💻 My Portfolio is available <a href="https://bharat1611.github.io/portfolio/">**here**</a> .
+- 👨‍💻 My Portfolio is available <a href="https://bharat1611.github.io/portfolio/"><ins>**here**</ins></a> .
 
 - 💬 Ask me about **Front-end, Data Science and Competitive Coding**.
 
