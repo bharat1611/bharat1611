@@ -6,7 +6,7 @@
    <h1><br>
   Hello there 👋 I am Bharat Upadhyay
 </div>
-<h3 align = "center"> A front-end developer and an ML Enthusiast from India</h3>
+<h3 align = "center"> A passionate software developer from India</h3>
 
 <img align = "right" alt = "Coding" width = "300" src = "https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" height = "250">
 <p align = "left"><img src="https://komarev.com/ghpvc/?username=bharat1611&style=flat-square&color=blue" alt=""/> </p>
