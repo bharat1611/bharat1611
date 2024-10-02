@@ -14,11 +14,11 @@
 
 - 🔭 I’m currently exploring **Data Analysis and React**.
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**.
+- 🌱 I’m currently learning about **AWS Services**.
 
 - 👨‍💻 My Portfolio is available <a href="https://bharat1611.github.io/portfolio/"><ins>**here**</ins></a> .
 
-- 💬 Ask me about **Front-end, Data Science and Competitive Coding**.
+- 💬 Ask me about **AWS, Front-End, Data Science and Competitive Coding**.
 
 - 📫 How to reach me **upadhyay.bharat.2017641@gmail.com**.
 
